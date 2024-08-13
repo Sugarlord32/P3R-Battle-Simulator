@@ -1,0 +1,1796 @@
+{
+    "fire": {
+        "agi": {
+            "skill_power": 40,
+            "accuracy": "99%",
+            "cost": {
+                "type": "sp",
+                "value": "4"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "burn",
+            "ailment_chance": "25%"
+        },
+        "agilao": {
+            "skill_power": 100,
+            "accuracy": "99%",
+            "cost": {
+                "type": "sp",
+                "value": "8"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "burn",
+            "ailment_chance": "25%"
+        },
+        "agidyne": {
+            "skill_power": 160,
+            "accuracy": "99%",
+            "cost": {
+                "type": "sp",
+                "value": "12"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "burn",
+            "ailment_chance": "25%"
+        },
+        "maragi": {
+            "skill_power": 40,
+            "accuracy": "95%",
+            "cost": {
+                "type": "sp",
+                "value": "10"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "burn",
+            "ailment_chance": "20%"
+        },
+        "maragion": {
+            "skill_power": 100,
+            "accuracy": "95%",
+            "cost": {
+                "type": "sp",
+                "value": "16"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "burn",
+            "ailment_chance": "20%"
+        },
+        "maragidyne": {
+            "skill_power": 160,
+            "accuracy": "95%",
+            "cost": {
+                "type": "sp",
+                "value": "22"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "burn",
+            "ailment_chance": "20%"
+        },
+        "ragnarok": {
+            "skill_power": 380,
+            "accuracy": "98%",
+            "cost": {
+                "type": "sp",
+                "value": "62"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "burn",
+            "ailment_chance": "100%"
+        },
+        "maralagidyne": {
+            "skill_power": 220,
+            "accuracy": "90%",
+            "cost": {
+                "type": "sp",
+                "value": "56"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "charm",
+            "ailment_chance": "20%"
+        },
+        "titanomachia": {
+            "skill_power": 210,
+            "accuracy": "90%",
+            "cost": {
+                "type": "sp",
+                "value": "54"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "burn",
+            "ailment_chance": "70%"
+        },
+        "blazing hell": {
+            "skill_power": 180,
+            "accuracy": "95%",
+            "cost": {
+                "type": "sp",
+                "value": "54"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "burn",
+            "ailment_chance": "24%"
+        },
+        "inferno": {
+            "skill_power": 200,
+            "accuracy": "98%",
+            "cost": {
+                "type": "sp",
+                "value": "48"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "burn",
+            "ailment_chance": "26%"
+        }
+    },
+    "ice": {
+        "bufu": {
+            "skill_power": 40,
+            "accuracy": "99%",
+            "cost": {
+                "type": "sp",
+                "value": "4"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "freeze",
+            "ailment_chance": "25%"
+        },
+        "bufula": {
+            "skill_power": 100,
+            "accuracy": "99%",
+            "cost": {
+                "type": "sp",
+                "value": "8"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "freeze",
+            "ailment_chance": "25%"
+        },
+        "bufudyne": {
+            "skill_power": 160,
+            "accuracy": "95%",
+            "cost": {
+                "type": "sp",
+                "value": "12"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "freeze",
+            "ailment_chance": "25%"
+        },
+        "mabufu": {
+            "skill_power": 40,
+            "accuracy": "95%",
+            "cost": {
+                "type": "sp",
+                "value": "10"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "freeze",
+            "ailment_chance": "20%"
+        },
+        "mabufula": {
+            "skill_power": 100,
+            "accuracy": "95%",
+            "cost": {
+                "type": "sp",
+                "value": "16"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "freeze",
+            "ailment_chance": "20%"
+        },
+        "mabufudyne": {
+            "skill_power": 160,
+            "accuracy": "95%",
+            "cost": {
+                "type": "sp",
+                "value": "22"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "freeze",
+            "ailment_chance": "20%"
+        },
+        "ice age": {
+            "skill_power": 180,
+            "accuracy": "95%",
+            "cost": {
+                "type": "sp",
+                "value": "54"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "freeze",
+            "ailment_chance": "24%"
+        },
+        "niflheim": {
+            "skill_power": 380,
+            "accuracy": "99%",
+            "cost": {
+                "type": "sp",
+                "value": "62"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "freeze",
+            "ailment_chance": "100%"
+        }
+    },
+    "electric": {
+        "zio": {
+            "skill_power": 40,
+            "accuracy": "99%",
+            "cost": {
+                "type": "sp",
+                "value": "4"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "shock",
+            "ailment_chance": "10%"
+        },
+        "zionga": {
+            "skill_power": 100,
+            "accuracy": "99%",
+            "cost": {
+                "type": "sp",
+                "value": "8"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "shock",
+            "ailment_chance": "10%"
+        },
+        "ziodyne": {
+            "skill_power": 160,
+            "accuracy": "99%",
+            "cost": {
+                "type": "sp",
+                "value": "12"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "shock",
+            "ailment_chance": "10%"
+        },
+        "mazio": {
+            "skill_power": 40,
+            "accuracy": "95%",
+            "cost": {
+                "type": "sp",
+                "value": "10"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "shock",
+            "ailment_chance": "8%"
+        },
+        "mazionga": {
+            "skill_power": 100,
+            "accuracy": "95%",
+            "cost": {
+                "type": "sp",
+                "value": "16"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "shock",
+            "ailment_chance": "8%"
+        },
+        "maziodyne": {
+            "skill_power": 160,
+            "accuracy": "95%",
+            "cost": {
+                "type": "sp",
+                "value": "22"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "shock",
+            "ailment_chance": "8%"
+        },
+        "thunder reign": {
+            "skill_power": 200,
+            "accuracy": "98%",
+            "cost": {
+                "type": "sp",
+                "value": "48"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "shock",
+            "ailment_chance": "26%"
+        },
+        "wild thunder": {
+            "skill_power": 180,
+            "accuracy": "95%",
+            "cost": {
+                "type": "sp",
+                "value": "54"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "shock",
+            "ailment_chance": "24%"
+        }
+    },
+    "wind": {
+        "garu": {
+            "skill_power": 40,
+            "accuracy": "99%",
+            "cost": {
+                "type": "sp",
+                "value": "3"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        },
+        "garula": {
+            "skill_power": 100,
+            "accuracy": "99%",
+            "cost": {
+                "type": "sp",
+                "value": "6"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        },
+        "garudyne": {
+            "skill_power": 160,
+            "accuracy": "99%",
+            "cost": {
+                "type": "sp",
+                "value": "10"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        },
+        "panta rhei": {
+            "skill_power": 200,
+            "accuracy": "98%",
+            "cost": {
+                "type": "sp",
+                "value": "42"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        },
+        "magaru": {
+            "skill_power": 40,
+            "accuracy": "95%",
+            "cost": {
+                "type": "sp",
+                "value": "8"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        },
+        "magarula": {
+            "skill_power": 100,
+            "accuracy": "95%",
+            "cost": {
+                "type": "sp",
+                "value": "14"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        },
+        "magarudyne": {
+            "skill_power": 160,
+            "accuracy": "95%",
+            "cost": {
+                "type": "sp",
+                "value": "20"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        },
+        "vacuum wave": {
+            "skill_power": 200,
+            "accuracy": "95%",
+            "cost": {
+                "type": "sp",
+                "value": "48"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        }
+    },
+    "psy": {
+        "psi": {
+            "skill_power": 40,
+            "accuracy": "99%",
+            "cost": {
+                "type": "sp",
+                "value": "4"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        },
+        "psio": {
+            "skill_power": 100,
+            "accuracy": "99%",
+            "cost": {
+                "type": "sp",
+                "value": "8"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        },
+        "psiodyne": {
+            "skill_power": 160,
+            "accuracy": "99%",
+            "cost": {
+                "type": "sp",
+                "value": "12"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        },
+        "psycho force": {
+            "skill_power": 200,
+            "accuracy": "98%",
+            "cost": {
+                "type": "sp",
+                "value": "48"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        },
+        "mapsi": {
+            "skill_power": 40,
+            "accuracy": "95%",
+            "cost": {
+                "type": "sp",
+                "value": "10"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        },
+        "mapsio": {
+            "skill_power": 100,
+            "accuracy": "95%",
+            "cost": {
+                "type": "sp",
+                "value": "16"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        },
+        "mapsiodyne": {
+            "skill_power": 160,
+            "accuracy": "95%",
+            "cost": {
+                "type": "sp",
+                "value": "22"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        },
+        "psycho blast": {
+            "skill_power": 180,
+            "accuracy": "95%",
+            "cost": {
+                "type": "sp",
+                "value": "54"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        }
+    },
+    "nuke": {
+        "frei": {
+            "skill_power": 40,
+            "accuracy": "99%",
+            "cost": {
+                "type": "sp",
+                "value": "4"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        },
+        "freila": {
+            "skill_power": 100,
+            "accuracy": "99%",
+            "cost": {
+                "type": "sp",
+                "value": "8"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        },
+        "freidyne": {
+            "skill_power": 160,
+            "accuracy": "99%",
+            "cost": {
+                "type": "sp",
+                "value": "12"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        },
+        "atomic flare": {
+            "skill_power": 200,
+            "accuracy": "98%",
+            "cost": {
+                "type": "sp",
+                "value": "48"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        },
+        "mafrei": {
+            "skill_power": 40,
+            "accuracy": "95%",
+            "cost": {
+                "type": "sp",
+                "value": "10"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        },
+        "mafreila": {
+            "skill_power": 100,
+            "accuracy": "95%",
+            "cost": {
+                "type": "sp",
+                "value": "16"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        },
+        "mafreidyne": {
+            "skill_power": 160,
+            "accuracy": "95%",
+            "cost": {
+                "type": "sp",
+                "value": "22"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        },
+        "cosmic flare": {
+            "skill_power": 180,
+            "accuracy": "95%",
+            "cost": {
+                "type": "sp",
+                "value": "54"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        }
+    },
+    "bless": {
+        "kouha": {
+            "skill_power": 50,
+            "accuracy": "99%",
+            "cost": {
+                "type": "sp",
+                "value": "4"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        },
+        "kouga": {
+            "skill_power": 120,
+            "accuracy": "99%",
+            "cost": {
+                "type": "sp",
+                "value": "8"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        },
+        "kougaon": {
+            "skill_power": 190,
+            "accuracy": "99%",
+            "cost": {
+                "type": "sp",
+                "value": "12"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        },
+        "makouha": {
+            "skill_power": 50,
+            "accuracy": "95%",
+            "cost": {
+                "type": "sp",
+                "value": "10"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        },
+        "makouga": {
+            "skill_power": 120,
+            "accuracy": "95%",
+            "cost": {
+                "type": "sp",
+                "value": "16"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        },
+        "makougaon": {
+            "skill_power": 190,
+            "accuracy": "95%",
+            "cost": {
+                "type": "sp",
+                "value": "22"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        },
+        "divine judgement": {
+            "skill_power": 0,
+            "accuracy": "100%",
+            "cost": {
+                "type": "sp",
+                "value": "48"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n",
+            "hp_percentage": "50%"
+        },
+        "hama": {
+            "skill_power": 0,
+            "accuracy": "100%",
+            "cost": {
+                "type": "sp",
+                "value": "8"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n",
+            "insta_chance": "25%"
+        },
+        "hamaon": {
+            "skill_power": 0,
+            "accuracy": "100%",
+            "cost": {
+                "type": "sp",
+                "value": "15"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n",
+            "insta_chance": "50%"
+        },
+        "mahama": {
+            "skill_power": 0,
+            "accuracy": "100%",
+            "cost": {
+                "type": "sp",
+                "value": "15"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "n",
+            "insta_chance": "30%"
+        },
+        "mahamaon": {
+            "skill_power": 0,
+            "accuracy": "100%",
+            "cost": {
+                "type": "sp",
+                "value": "34"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "n",
+            "insta_chance": "50%"
+        },
+        "samsara": {
+            "skill_power": 0,
+            "accuracy": "100%",
+            "cost": {
+                "type": "sp",
+                "value": "44"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "n",
+            "insta_chance": "70%"
+        },
+        "shining arrows": {
+            "skill_power": 15,
+            "accuracy": "90%",
+            "cost": {
+                "type": "sp",
+                "value": "22"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "y",
+            "num_hits": "range:4-8",
+            "ailment": "n"
+        }
+    },
+    "curse": {
+        "eiha": {
+            "skill_power": 50,
+            "accuracy": "99%",
+            "cost": {
+                "type": "sp",
+                "value": "4"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        },
+        "eiga": {
+            "skill_power": 120,
+            "accuracy": "99%",
+            "cost": {
+                "type": "sp",
+                "value": "8"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        },
+        "eigaon": {
+            "skill_power": 190,
+            "accuracy": "99%",
+            "cost": {
+                "type": "sp",
+                "value": "12"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        },
+        "maeiha": {
+            "skill_power": 50,
+            "accuracy": "95%",
+            "cost": {
+                "type": "sp",
+                "value": "10"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        },
+        "maeiga": {
+            "skill_power": 120,
+            "accuracy": "95%",
+            "cost": {
+                "type": "sp",
+                "value": "16"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        },
+        "maeigaon": {
+            "skill_power": 190,
+            "accuracy": "95%",
+            "cost": {
+                "type": "sp",
+                "value": "22"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        },
+        "demonic decree": {
+            "skill_power": 0,
+            "accuracy": "100%",
+            "cost": {
+                "type": "sp",
+                "value": "48"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n",
+            "hp_percentage": "50%"
+        },
+        "mudo": {
+            "skill_power": 0,
+            "accuracy": "100%",
+            "cost": {
+                "type": "sp",
+                "value": "8"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n",
+            "insta_chance": "25%"
+        },
+        "mudoon": {
+            "skill_power": 0,
+            "accuracy": "100%",
+            "cost": {
+                "type": "sp",
+                "value": "15"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n",
+            "insta_chance": "50%"
+        },
+        "mamudo": {
+            "skill_power": 0,
+            "accuracy": "100%",
+            "cost": {
+                "type": "sp",
+                "value": "18"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "n",
+            "insta_chance": "30%"
+        },
+        "mamudoon": {
+            "skill_power": 0,
+            "accuracy": "100%",
+            "cost": {
+                "type": "sp",
+                "value": "34"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "n",
+            "insta_chance": "50%"
+        },
+        "die for me!": {
+            "skill_power": 0,
+            "accuracy": "100%",
+            "cost": {
+                "type": "sp",
+                "value": "44"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "n",
+            "insta_chance": "70%"
+        },
+        "magatsu mandala": {
+            "skill_power": 160,
+            "accuracy": "90%",
+            "cost": {
+                "type": "sp",
+                "value": "30"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": [
+                "confuse",
+                "fear",
+                "despair"
+            ],
+            "ailment_chance": "50%"
+        },
+        "abyssal wings": {
+            "skill_power": 210,
+            "accuracy": "90%",
+            "cost": {
+                "type": "sp",
+                "value": "30"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        }
+    },
+    "almighty": {
+        "megido": {
+            "skill_power": 120,
+            "accuracy": "95%",
+            "cost": {
+                "type": "sp",
+                "value": "15"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        },
+        "megidola": {
+            "skill_power": 180,
+            "accuracy": "95%",
+            "cost": {
+                "type": "sp",
+                "value": "24"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        },
+        "megidolaon": {
+            "skill_power": 210,
+            "accuracy": "95%",
+            "cost": {
+                "type": "sp",
+                "value": "38"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        },
+        "black viper": {
+            "skill_power": 230,
+            "accuracy": "98%",
+            "cost": {
+                "type": "sp",
+                "value": "48"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        },
+        "morning star": {
+            "skill_power": 230,
+            "accuracy": "95%",
+            "cost": {
+                "type": "sp",
+                "value": "52"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        },
+        "abyssal eye": {
+            "skill_power": 220,
+            "accuracy": "95%",
+            "cost": {
+                "type": "sp",
+                "value": "50"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        },
+        "door of hades": {
+            "skill_power": 160,
+            "accuracy": "90%",
+            "cost": {
+                "type": "sp",
+                "value": "32"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "n",
+            "insta_chance": "60%"
+        },
+        "myriad truths": {
+            "skill_power": 120,
+            "accuracy": "95%",
+            "cost": {
+                "type": "sp",
+                "value": "40"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "y",
+            "num_hits": "single:3",
+            "ailment": "n"
+        },
+        "rebellion blade": {
+            "skill_power": 900,
+            "accuracy": "90%",
+            "cost": {
+                "type": "sp",
+                "value": "99"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n"
+        }
+    },
+    "phys": {
+        "lunge": {
+            "skill_power": 60,
+            "accuracy": "90%",
+            "cost": {
+                "type": "hp",
+                "value": "5%"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n",
+            "crit_chance": "20%"
+        },
+        "cleave": {
+            "skill_power": 60,
+            "accuracy": "90%",
+            "cost": {
+                "type": "hp",
+                "value": "6%"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n",
+            "crit_chance": "20%"
+        },
+        "power slash": {
+            "skill_power": 100,
+            "accuracy": "85%",
+            "cost": {
+                "type": "hp",
+                "value": "10%"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n",
+            "crit_chance": "20%"
+        },
+        "assault dive": {
+            "skill_power": 130,
+            "accuracy": "90%",
+            "cost": {
+                "type": "hp",
+                "value": "13%"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n",
+            "crit_chance": "20%"
+        },
+        "megaton raid": {
+            "skill_power": 300,
+            "accuracy": "85%",
+            "cost": {
+                "type": "hp",
+                "value": "16%"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n",
+            "crit_chance": "25%"
+        },
+        "brave blade": {
+            "skill_power": 600,
+            "accuracy": "90%",
+            "cost": {
+                "type": "hp",
+                "value": "16%"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n",
+            "crit_chance": "35%"
+        },
+        "god's hand": {
+            "skill_power": 800,
+            "accuracy": "90%",
+            "cost": {
+                "type": "hp",
+                "value": "25%"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n",
+            "crit_chance": "15%"
+        },
+        "giant slice": {
+            "skill_power": 90,
+            "accuracy": "90%",
+            "cost": {
+                "type": "hp",
+                "value": "9%"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n",
+            "crit_chance": "30%"
+        },
+        "rising slash": {
+            "skill_power": 140,
+            "accuracy": "90%",
+            "cost": {
+                "type": "hp",
+                "value": "14%"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n",
+            "crit_chance": "5%"
+        },
+        "deadly fury": {
+            "skill_power": 220,
+            "accuracy": "90%",
+            "cost": {
+                "type": "hp",
+                "value": "18%"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n",
+            "crit_chance": "5%"
+        },
+        "double fangs": {
+            "skill_power": 40,
+            "accuracy": "90%",
+            "cost": {
+                "type": "hp",
+                "value": "10%"
+            },
+            "target_type": "single-target",
+            "multi_hit": "y",
+            "num_hits": "range:1-2",
+            "ailment": "n",
+            "crit_chance": "5%"
+        },
+        "kill rush": {
+            "skill_power": 40,
+            "accuracy": "90%",
+            "cost": {
+                "type": "hp",
+                "value": "14%"
+            },
+            "target_type": "single-target",
+            "multi_hit": "y",
+            "num_hits": "range:1-3",
+            "ailment": "n",
+            "crit_chance": "5%"
+        },
+        "gatling blow": {
+            "skill_power": 30,
+            "accuracy": "90%",
+            "cost": {
+                "type": "hp",
+                "value": "16%"
+            },
+            "target_type": "single-target",
+            "multi_hit": "y",
+            "num_hits": "range:3-4",
+            "ailment": "n",
+            "crit_chance": "5%"
+        },
+        "tempest slash": {
+            "skill_power": 20,
+            "accuracy": "85%",
+            "cost": {
+                "type": "hp",
+                "value": "17%"
+            },
+            "target_type": "single-target",
+            "multi_hit": "y",
+            "num_hits": "range:3-5",
+            "ailment": "n",
+            "crit_chance": "5%"
+        },
+        "myriad slashes": {
+            "skill_power": 90,
+            "accuracy": "85%",
+            "cost": {
+                "type": "hp",
+                "value": "20%"
+            },
+            "target_type": "single-target",
+            "multi_hit": "y",
+            "num_hits": "range:2-3",
+            "ailment": "n",
+            "crit_chance": "5%"
+        },
+        "terror claw": {
+            "skill_power": 100,
+            "accuracy": "90%",
+            "cost": {
+                "type": "hp",
+                "value": "8%"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "fear",
+            "ailment_chance": "35%",
+            "crit_chance": "5%"
+        },
+        "headbutt": {
+            "skill_power": 80,
+            "accuracy": "90%",
+            "cost": {
+                "type": "hp",
+                "value": "9%"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "forget",
+            "ailment_chance": "35%",
+            "crit_chance": "5%"
+        },
+        "hysterical slap": {
+            "skill_power": 80,
+            "accuracy": "90%",
+            "cost": {
+                "type": "hp",
+                "value": "9%"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "rage",
+            "ailment_chance": "35%",
+            "crit_chance": "5%"
+        },
+        "brain shake": {
+            "skill_power": 80,
+            "accuracy": "90%",
+            "cost": {
+                "type": "hp",
+                "value": "9%"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "brainwash",
+            "ailment_chance": "35%",
+            "crit_chance": "5%"
+        },
+        "sledgehammer": {
+            "skill_power": 100,
+            "accuracy": "90%",
+            "cost": {
+                "type": "hp",
+                "value": "10%"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "dizzy",
+            "ailment_chance": "35%",
+            "crit_chance": "5%"
+        },
+        "skull cracker": {
+            "skill_power": 100,
+            "accuracy": "90%",
+            "cost": {
+                "type": "hp",
+                "value": "10%"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "confuse",
+            "ailment_chance": "35%",
+            "crit_chance": "5%"
+        },
+        "negative pile": {
+            "skill_power": 120,
+            "accuracy": "90%",
+            "cost": {
+                "type": "hp",
+                "value": "12%"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "despair",
+            "ailment_chance": "35%",
+            "crit_chance": "3%"
+        },
+        "death scythe": {
+            "skill_power": 300,
+            "accuracy": "90%",
+            "cost": {
+                "type": "hp",
+                "value": "20%"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "fear",
+            "ailment_chance": "55%",
+            "crit_chance": "5%"
+        },
+        "lucky punch": {
+            "skill_power": 25,
+            "accuracy": "75%",
+            "cost": {
+                "type": "hp",
+                "value": "3%"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n",
+            "crit_chance": "75%"
+        },
+        "miracle punch": {
+            "skill_power": 80,
+            "accuracy": "75%",
+            "cost": {
+                "type": "hp",
+                "value": "8%"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n",
+            "crit_chance": "75%"
+        },
+        "sword dance": {
+            "skill_power": 360,
+            "accuracy": "90%",
+            "cost": {
+                "type": "hp",
+                "value": "21%"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n",
+            "crit_chance": "45%"
+        },
+        "cornered fang": {
+            "skill_power": 100,
+            "accuracy": "85%",
+            "cost": {
+                "type": "hp",
+                "value": "10%"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n",
+            "crit_chance": "35%"
+        },
+        "ayamur": {
+            "skill_power": 100,
+            "accuracy": "95%",
+            "cost": {
+                "type": "hp",
+                "value": "25%"
+            },
+            "target_type": "single-target",
+            "multi_hit": "y",
+            "num_hits": "single:3",
+            "ailment": "n",
+            "crit_chance": "10%"
+        },
+        "laevateinn": {
+            "skill_power": 800,
+            "accuracy": "98%",
+            "cost": {
+                "type": "hp",
+                "value": "25%"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n",
+            "crit_chance": "0%"
+        },
+        "masquerade": {
+            "skill_power": 300,
+            "accuracy": "90%",
+            "cost": {
+                "type": "hp",
+                "value": "25%"
+            },
+            "target_type": "single-target",
+            "multi_hit": "y",
+            "num_hits": "single:2",
+            "ailment": "n",
+            "crit_chance": "30%"
+        },
+        "cross slash": {
+            "skill_power": 160,
+            "accuracy": "99%",
+            "cost": {
+                "type": "hp",
+                "value": "20%"
+            },
+            "target_type": "single-target",
+            "multi_hit": "y",
+            "num_hits": "single:2",
+            "ailment": "n",
+            "crit_chance": "20%"
+        },
+        "beast weaver": {
+            "skill_power": 1200,
+            "accuracy": "90%",
+            "cost": {
+                "type": "hp",
+                "value": "20%"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n",
+            "crit_chance": "5%"
+        },
+        "vajra blast": {
+            "skill_power": 80,
+            "accuracy": "80%",
+            "cost": {
+                "type": "hp",
+                "value": "13%"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "n",
+            "crit_chance": "5%"
+        },
+        "vicious strike": {
+            "skill_power": 110,
+            "accuracy": "80%",
+            "cost": {
+                "type": "hp",
+                "value": "18%"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "n",
+            "crit_chance": "5%"
+        },
+        "heat wave": {
+            "skill_power": 150,
+            "accuracy": "80%",
+            "cost": {
+                "type": "hp",
+                "value": "20%"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "n",
+            "crit_chance": "5%"
+        },
+        "vorpal blade": {
+            "skill_power": 210,
+            "accuracy": "80%",
+            "cost": {
+                "type": "hp",
+                "value": "210"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "n",
+            "crit_chance": "10%"
+        },
+        "gigantomachia": {
+            "skill_power": 350,
+            "accuracy": "85%",
+            "cost": {
+                "type": "hp",
+                "value": "25%"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "n",
+            "crit_chance": "5%"
+        },
+        "rampage": {
+            "skill_power": 30,
+            "accuracy": "70%",
+            "cost": {
+                "type": "hp",
+                "value": "13%"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "y",
+            "num_hits": "range:1-3",
+            "ailment": "n",
+            "crit_chance": "10%"
+        },
+        "swift strike": {
+            "skill_power": 20,
+            "accuracy": "70%",
+            "cost": {
+                "type": "hp",
+                "value": "17%"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "y",
+            "num_hits": "range:2-4",
+            "ailment": "n",
+            "crit_chance": "10%"
+        },
+        "deathbound": {
+            "skill_power": 100,
+            "accuracy": "80%",
+            "cost": {
+                "type": "hp",
+                "value": "22%"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "y",
+            "num_hits": "range:1-2",
+            "ailment": "n",
+            "crit_chance": "10%"
+        },
+        "agneyastra": {
+            "skill_power": 110,
+            "accuracy": "80%",
+            "cost": {
+                "type": "hp",
+                "value": "24%"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "y",
+            "num_hits": "range:1-3",
+            "ailment": "n",
+            "crit_chance": "5%"
+        },
+        "memory blow": {
+            "skill_power": 70,
+            "accuracy": "80%",
+            "cost": {
+                "type": "hp",
+                "value": "15%"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "forget",
+            "ailment_chance": "25%",
+            "crit_chance": "5%"
+        },
+        "dormin rush": {
+            "skill_power": 80,
+            "accuracy": "80%",
+            "cost": {
+                "type": "hp",
+                "value": "16%"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "sleep",
+            "ailment_chance": "25%",
+            "crit_chance": "5%"
+        },
+        "oni-kagura": {
+            "skill_power": 80,
+            "accuracy": "80%",
+            "cost": {
+                "type": "hp",
+                "value": "16%"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "rage",
+            "ailment_chance": "25%",
+            "crit_chance": "5%"
+        },
+        "flash bomb": {
+            "skill_power": 100,
+            "accuracy": "80%",
+            "cost": {
+                "type": "hp",
+                "value": "19%"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "dizzy",
+            "ailment_chance": "25%",
+            "crit_chance": "5%"
+        },
+        "mind slice": {
+            "skill_power": 110,
+            "accuracy": "80%",
+            "cost": {
+                "type": "hp",
+                "value": "19%"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "confuse",
+            "ailment_chance": "25%",
+            "crit_chance": "5%"
+        },
+        "bad beat": {
+            "skill_power": 110,
+            "accuracy": "80%",
+            "cost": {
+                "type": "hp",
+                "value": "21%"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "despair",
+            "ailment_chance": "25%",
+            "crit_chance": "5%"
+        },
+        "bloodbath": {
+            "skill_power": 120,
+            "accuracy": "80%",
+            "cost": {
+                "type": "hp",
+                "value": "22%"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "fear",
+            "ailment_chance": "25%",
+            "crit_chance": "5%"
+        },
+        "brain buster": {
+            "skill_power": 120,
+            "accuracy": "80 %",
+            "cost": {
+                "type": "hp",
+                "value": "22%"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "brainwash",
+            "ailment_chance": "25%",
+            "crit_chance": "5%"
+        },
+        "hassou tobi": {
+            "skill_power": 40,
+            "accuracy": "75%",
+            "cost": {
+                "type": "hp",
+                "value": "25%"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "y",
+            "num_hits": "single:8",
+            "ailment": "n",
+            "crit_chance": "5%"
+        },
+        "miracle rush": {
+            "skill_power": 80,
+            "accuracy": "55%",
+            "cost": {
+                "type": "hp",
+                "value": "16%"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "n",
+            "crit_chance": "40%"
+        },
+        "akashic arts": {
+            "skill_power": 300,
+            "accuracy": "80%",
+            "cost": {
+                "type": "hp",
+                "value": "20%"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "y",
+            "num_hits": "range:1-2",
+            "ailment": "n",
+            "crit_chance": "30%"
+        }
+    },
+    "gun": {
+        "snap": {
+            "skill_power": 80,
+            "accuracy": "90%",
+            "cost": {
+                "type": "hp",
+                "value": "(%"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n",
+            "crit_chance": "30%"
+        },
+        "double shot": {
+            "skill_power": 50,
+            "accuracy": "90%",
+            "cost": {
+                "type": "hp",
+                "value": "12%"
+            },
+            "target_type": "single-target",
+            "multi_hit": "y",
+            "num_hits": "single:2",
+            "ailment": "n",
+            "crit_chance": "5%"
+        },
+        "one-shot kill": {
+            "skill_power": 210,
+            "accuracy": "90%",
+            "cost": {
+                "type": "hp",
+                "value": "17%"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "n",
+            "crit_chance": "40%"
+        },
+        "dream needle": {
+            "skill_power": 30,
+            "accuracy": "90%",
+            "cost": {
+                "type": "hp",
+                "value": "8%"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "sleep",
+            "ailment_chance": "35%",
+            "crit_chance": "5%"
+        },
+        "triple down": {
+            "skill_power": 30,
+            "accuracy": "70%",
+            "cost": {
+                "type": "hp",
+                "value": "16%"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "y",
+            "num_hits": "single:3",
+            "ailment": "n",
+            "crit_chance": "5%"
+        },
+        "riot gun": {
+            "skill_power": 300,
+            "accuracy": "80%",
+            "cost": {
+                "type": "hp",
+                "value": "24%"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "n",
+            "ailment": "n",
+            "crit_chance": "10%"
+        },
+        "holy arrow": {
+            "skill_power": 60,
+            "accuracy": "92%",
+            "cost": {
+                "type": "hp",
+                "value": "9%"
+            },
+            "target_type": "single-target",
+            "multi_hit": "n",
+            "ailment": "charm",
+            "ailment_chance": "25%",
+            "crit_chance": "5%"
+        },
+        "torrent shot": {
+            "skill_power": 50,
+            "accuracy": "82%",
+            "cost": {
+                "type": "hp",
+                "value": "10%"
+            },
+            "target_type": "single-target",
+            "multi_hit": "y",
+            "num_hits": "range:2-4",
+            "ailment": "n",
+            "crit_chance": "5%"
+        },
+        "myriad arrows": {
+            "skill_power": 140,
+            "accuracy": "87%",
+            "cost": {
+                "type": "hp",
+                "value": "19%"
+            },
+            "target_type": "multi-target",
+            "multi_hit": "y",
+            "num_hits": "range:1-3",
+            "ailment": "n",
+            "crit_chance": "5%"
+        }
+    }
+}
