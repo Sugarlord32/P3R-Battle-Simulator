@@ -1,4 +1,4 @@
-# p3r-battle-simulator
+# P3R Battle Simulator
 A simulator of Persona 3 Reload battles
 
 
